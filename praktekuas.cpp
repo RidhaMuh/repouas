@@ -10,7 +10,7 @@ struct Gudang
 {
     string nama_barang;
     int stok;
-    string satuan; // Menambahkan satuan pada struct Gudang
+    string satuan; // Menambahkan satuan pada struct Gudang a
 };
 
 // Fungsi untuk menambah stok barang
